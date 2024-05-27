@@ -1,5 +1,3 @@
-Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 13:49:07) [MSC v.1938 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 def add(a,b):
     return a+b
 def subtract (a,b ):
